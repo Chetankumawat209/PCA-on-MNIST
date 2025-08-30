@@ -22,5 +22,5 @@ Steps:
 
 ## How to Run:
 ```bash
-kaggle datasets download -d digit-recognizer
+kaggle datasets download -d digit-recognizer (https://www.kaggle.com/code/chetankumawat209ram/pca-on-mnist/edit)
 jupyter notebook PCA-on-MNIST.ipynb
